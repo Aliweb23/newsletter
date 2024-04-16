@@ -43,14 +43,18 @@
 }
 
 .header {
-    background-color: #e29090;
-    background-image: url(images/thumnail\ 3.png);
+    background-color: #000;
+    color: #f2f2f2;
+    background-image: url(images/3.png);
     padding: 20px;
     text-align: center;
+    border: 1px solid #000;
+    border-radius: 0,5%;
+    border-top: 1px solid rgb(117, 165, 43);
   
 }
 hr{
-    border: 3px solid red;
+    border: 3px solid transparent;
 }
 .img-1{
     width: 80px;
