@@ -42,6 +42,10 @@
     border: 1px solid rgb(183, 184, 183);
 }
 
+.container section{
+    background-color: #b8ca66;
+   padding-top: 20px;
+}
 .header {
     background-color: #000;
     color: #f2f2f2;
