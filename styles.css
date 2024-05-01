@@ -9,9 +9,9 @@
     text-align: center;
     font-weight: 800;
     font-style: italic;
-    background-color: #b8ca66;
+    background-color: #95cce4;
     border: 1px solid;
-    border-bottom: 1px solid rgb(117, 165, 43);
+    border-bottom: 1px solid rgb(117, 151, 209);
 }
 
 .top p a{
@@ -43,7 +43,7 @@
 }
 
 .container section{
-    background-color: #b8ca66;
+    background-color: #95cce4;
    padding-top: 20px;
 }
 
@@ -60,7 +60,7 @@ section .content{
     text-align: center;
     border: 1px solid #000;
     border-radius: 0,5%;
-    border-top: 1px solid rgb(117, 165, 43);
+    border-top: 1px solid rgb(117, 151, 209);
   
 }
 hr{
@@ -98,8 +98,17 @@ hr{
     margin-top: 40px;
     padding-top: 20px;
 }
+.links {
+    list-style-type: none;
+    font-weight: bold;
+}
+
+.links a {
+    text-decoration: none;
+}
+
 .box-1, .box-2, .box-3, .box-4, .box-5 {
-    width: 400px;
+    width: 300px;
     height: 100px;
     font-size: 12px;
     background: #f7eeee;
@@ -108,7 +117,7 @@ hr{
     align-items: center;
     text-align: center;
     margin: auto;
-    border: 2px solid rgb(31, 31, 32);
+    border: 1px solid rgb(117, 151, 209);
     border-radius: 10%;
     text-decoration: none;
     margin-bottom: 10px;
@@ -122,7 +131,7 @@ hr{
 
 .footer {
     border:1px  solid #0000;
-    background-color: #b8ca66;
+    background-color: #95cce4;
     padding: 20px;
     text-align: center;
 }
