@@ -135,7 +135,7 @@ hr{
     background-size: cover; 
     background-position: center; 
 }
-.box-1 h1, p{
+.box-1 h1{
     font-size: 1rem;
     font-style: italic;
 }
@@ -145,6 +145,10 @@ hr{
     font-weight: 700;
     color: #fffafa;
 }
+/* .box-1 p{
+    color: #f9efef;
+    font-size: 15px;
+} */
 
 .box-1 a, .box-2 a, .box-3 a, .box-4 a, .box-5 a {
     text-decoration: none;
